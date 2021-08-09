@@ -98,13 +98,13 @@
 		]
 	},
 	{
-		"arch": "arm64",
+		"arch": "arm",
 		"id": "jetson_nano",
 		"soc": "TM660M",
 		"name": "Nvidia Jetson Nano",
 		"files": [
-			"https://github.com/haiku/firmware/raw/master/u-boot/arm64/jetson_nano/README.md",
-			"https://github.com/haiku/firmware/raw/master/u-boot/arm64/jetson_nano/u-boot.bin"
+			"https://github.com/thinkski/firmware/raw/master/u-boot/arm64/jetson_nano/README.md",
+			"https://github.com/thinkski/firmware/raw/master/u-boot/arm64/jetson_nano/u-boot.bin"
 		]
 	}
 ]
