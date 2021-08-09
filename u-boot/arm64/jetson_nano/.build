@@ -1,0 +1,4 @@
+config=p3450-0000_defconfig
+name=Nvidia Jetson Nano
+url=https://developer.nvidia.com/embedded/jetson-nano
+artifacts=u-boot.bin

@@ -96,5 +96,15 @@
 			"64,https://github.com/haiku/firmware/raw/master/u-boot/arm/tinkerboard/idbloader.img",
 			"16384,https://github.com/haiku/firmware/raw/master/u-boot/arm/tinkerboard/u-boot-dtb.img"
 		]
+	},
+	{
+		"arch": "arm64",
+		"id": "jetson_nano",
+		"soc": "TM660M",
+		"name": "Nvidia Jetson Nano",
+		"files": [
+			"https://github.com/haiku/firmware/raw/master/u-boot/arm64/jetson_nano/README.md",
+			"https://github.com/haiku/firmware/raw/master/u-boot/arm64/jetson_nano/u-boot.bin"
+		]
 	}
 ]
